@@ -15,3 +15,7 @@ You can download the project from Github - [**https://github.com/himadriganguly/
 5. LCD (16X2)
 8. DS3231 / DS3231M
 4. Fritzing [**http://fritzing.org/**] (http://fritzing.org/)
+
+## Library
+
+[**https://github.com/rodan/ds3231**] (https://github.com/rodan/ds3231)
